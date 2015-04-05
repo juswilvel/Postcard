@@ -3,7 +3,7 @@
 //  Postcard
 //
 //  Created by Justin Velasquez on 4/4/15.
-//  Copyright (c) 2015 Justin Velasquez. All rights reserved.
+//  Copyright (c) 2015 juswilvel design. All rights reserved.
 //
 
 import UIKit
