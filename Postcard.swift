@@ -36,6 +36,7 @@ class ViewController: UIViewController {
         
         messageButton.setTitle("Message Sent", forState: UIControlState.Normal)
         
+        // Adding comment to test commits.
         
     }
 
